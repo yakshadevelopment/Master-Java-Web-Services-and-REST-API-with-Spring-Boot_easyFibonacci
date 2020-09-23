@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowFibonacciSeriesResponse xmlns="http://yaksha.edu/fiboapp" xsi:schemaLocation="http://yaksha.edu/fiboapp fibo_series.xsd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Fibonacci>
+<serial-number>1</serial-number>
+<fibonacci-number>1</fibonacci-number>
+</Fibonacci>
+</ShowFibonacciSeriesResponse>
